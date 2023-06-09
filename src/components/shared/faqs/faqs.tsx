@@ -8,7 +8,7 @@ export const Faqs = component$(() => {
           <h1 class="text-3xl text-center text-vibranio-blue">
             Preguntas frecuentes (FAQs)
           </h1>
-          <p class="text-center text-vibranio-grey mt-4">
+          <p class="text-center text-vibranio-gray mt-4">
             Te dejamos algunas preguntas que nos hacen con frecuencia
           </p>
         </div>
@@ -17,7 +17,7 @@ export const Faqs = component$(() => {
             <span class="flex-1">¿Qué es una landing page?</span>
             <i class="fa-sharp fa-solid fa-chevron-down"></i>
           </div>
-          <p class="text-vibranio-grey text-sm">
+          <p class="text-vibranio-gray text-sm">
             Una landing page es una página web diseñada específicamente para
             promocionar y presentar información relevante sobre un producto,
             servicio o negocio en particular. Su objetivo principal es convertir
@@ -32,7 +32,7 @@ export const Faqs = component$(() => {
             </span>
             <i class="fa-sharp fa-solid fa-chevron-down"></i>
           </div>
-          <p class="text-vibranio-grey text-sm">
+          <p class="text-vibranio-gray text-sm">
             Una landing page es una herramienta efectiva para establecer tu
             presencia en línea y proporcionar a tus clientes potenciales la
             información necesaria sobre tu negocio. Te permite presentar tus
@@ -48,7 +48,7 @@ export const Faqs = component$(() => {
             </span>
             <i class="fa-sharp fa-solid fa-chevron-down"></i>
           </div>
-          <p class="text-vibranio-grey text-sm">
+          <p class="text-vibranio-gray text-sm">
             Es muy sencillo. Solo tienes que contactar a un asesor en
             Vibranio.com.mx, luego, nuestro equipo te guiará a través del
             proceso de recopilación de información y diseño de tu landing page
@@ -63,7 +63,7 @@ export const Faqs = component$(() => {
             </span>
             <i class="fa-sharp fa-solid fa-chevron-down"></i>
           </div>
-          <p class="text-vibranio-grey text-sm">
+          <p class="text-vibranio-gray text-sm">
             Para crear tu landing page, necesitaremos información básica sobre
             tu negocio, como el nombre, la ubicación, el número de contacto y el
             horario de atención. Además, cualquier otro contenido adicional que
@@ -78,7 +78,7 @@ export const Faqs = component$(() => {
             </span>
             <i class="fa-sharp fa-solid fa-chevron-down"></i>
           </div>
-          <p class="text-vibranio-grey text-sm">
+          <p class="text-vibranio-gray text-sm">
             ¡Por supuesto! En Vibranio, nos esforzamos por ofrecerte una landing
             page que se adapte a tu marca y objetivos. Trabajaremos contigo para
             personalizar el diseño, los colores, las fuentes y otros elementos
@@ -94,7 +94,7 @@ export const Faqs = component$(() => {
             </span>
             <i class="fa-sharp fa-solid fa-chevron-down"></i>
           </div>
-          <p class="text-vibranio-grey text-sm">
+          <p class="text-vibranio-gray text-sm">
             En Vibranio, entendemos que las necesidades de tu negocio pueden
             evolucionar con el tiempo. Si deseas realizar cambios en tu landing
             page después del lanzamiento, estaremos encantados de ayudarte.
@@ -110,7 +110,7 @@ export const Faqs = component$(() => {
             </span>
             <i class="fa-sharp fa-solid fa-chevron-down"></i>
           </div>
-          <p class="text-vibranio-grey text-sm">
+          <p class="text-vibranio-gray text-sm">
             ¡Absolutamente! En Vibranio, ofrecemos la opción de integrar tus
             perfiles de redes sociales en tu landing page. Podemos agregar
             botones y enlaces que dirijan a tus visitantes a tus perfiles de

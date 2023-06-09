@@ -7,7 +7,7 @@ export const Services = component$(() => {
         <h1 class="text-3xl text-center text-vibranio-blue">
           Servicios/Productos
         </h1>
-        <p class="text-center text-vibranio-grey mt-4">
+        <p class="text-center text-vibranio-gray mt-4">
           En Vibranio, nos especializamos en proporcionar soluciones de
           presencia digital sencillas y económicas para empresas pequeñas.
           Nuestro enfoque principal es ofrecer landing pages personalizadas que
@@ -22,7 +22,7 @@ export const Services = component$(() => {
             <h3 class="mt-5 mb-2 text-vibranio-blue text-lg">
               Landing Pages Personalizadas
             </h3>
-            <p class="mb-2 text-vibranio-grey font-light">Creamos landing pages atractivas y profesionales que se adaptan a la identidad y los objetivos de tu negocio. Nuestro equipo de diseñadores expertos trabajará contigo para capturar la esencia de tu marca y transmitir tu mensaje de manera efectiva.</p>
+            <p class="mb-2 text-vibranio-gray font-light">Creamos landing pages atractivas y profesionales que se adaptan a la identidad y los objetivos de tu negocio. Nuestro equipo de diseñadores expertos trabajará contigo para capturar la esencia de tu marca y transmitir tu mensaje de manera efectiva.</p>
           </div>
           <hr class="border-b border-vibranio-white" />
           <div class="flex p-6">
@@ -35,7 +35,7 @@ export const Services = component$(() => {
             <h3 class="mt-5 mb-2 text-vibranio-blue text-lg">
             Información Básica del Negocio
             </h3>
-            <p class="mb-2 text-vibranio-grey font-light">En tu landing page, podrás mostrar la información básica de tu negocio, como el nombre, la ubicación, el número de contacto y el horario de atención. Esto ayudará a tus clientes a encontrarte y obtener la información necesaria para visitarte o comunicarse contigo.</p>
+            <p class="mb-2 text-vibranio-gray font-light">En tu landing page, podrás mostrar la información básica de tu negocio, como el nombre, la ubicación, el número de contacto y el horario de atención. Esto ayudará a tus clientes a encontrarte y obtener la información necesaria para visitarte o comunicarse contigo.</p>
           </div>
           <hr class="border-b border-vibranio-white" />
           <div class="flex p-6">
@@ -48,7 +48,7 @@ export const Services = component$(() => {
             <h3 class="mt-5 mb-2 text-vibranio-blue text-lg">
             Redes Sociales Integradas
             </h3>
-            <p class="mb-2 text-vibranio-grey font-light">Incluiremos botones y enlaces a tus perfiles de redes sociales para que tus clientes puedan seguirte, obtener actualizaciones sobre tus productos o servicios, y compartir tus contenidos con su red. Esto te ayudará a aumentar tu visibilidad en línea y a fortalecer tu presencia en las plataformas sociales.</p>
+            <p class="mb-2 text-vibranio-gray font-light">Incluiremos botones y enlaces a tus perfiles de redes sociales para que tus clientes puedan seguirte, obtener actualizaciones sobre tus productos o servicios, y compartir tus contenidos con su red. Esto te ayudará a aumentar tu visibilidad en línea y a fortalecer tu presencia en las plataformas sociales.</p>
           </div>
           <hr class="border-b border-vibranio-white" />
           <div class="flex p-6">
@@ -61,7 +61,7 @@ export const Services = component$(() => {
             <h3 class="mt-5 mb-2 text-vibranio-blue text-lg">
             Mapa de Localización
             </h3>
-            <p class="mb-2 text-vibranio-grey font-light">Agregaremos un mapa interactivo para que tus clientes puedan encontrar fácilmente tu ubicación física. Esto es especialmente útil para negocios locales que dependen del tráfico en persona.</p>
+            <p class="mb-2 text-vibranio-gray font-light">Agregaremos un mapa interactivo para que tus clientes puedan encontrar fácilmente tu ubicación física. Esto es especialmente útil para negocios locales que dependen del tráfico en persona.</p>
           </div>
           <hr class="border-b border-vibranio-white" />
           <div class="flex p-6">
@@ -74,7 +74,7 @@ export const Services = component$(() => {
             <h3 class="mt-5 mb-2 text-vibranio-blue text-lg">
             Diseño Responsivo
             </h3>
-            <p class="mb-2 text-vibranio-grey font-light">Todas nuestras landing pages están optimizadas para dispositivos móviles y tabletas, lo que significa que se verán y funcionarán de manera excelente en cualquier tipo de pantalla. Esto garantiza una experiencia de usuario fluida y accesible, sin importar el dispositivo que utilicen tus visitantes.</p>
+            <p class="mb-2 text-vibranio-gray font-light">Todas nuestras landing pages están optimizadas para dispositivos móviles y tabletas, lo que significa que se verán y funcionarán de manera excelente en cualquier tipo de pantalla. Esto garantiza una experiencia de usuario fluida y accesible, sin importar el dispositivo que utilicen tus visitantes.</p>
           </div>
           <hr class="border-b border-vibranio-white" />
           <div class="flex p-6">

@@ -9,7 +9,7 @@ export const Hero = component$(() => {
             Entra al mundo de la <br />
             <span class="font-bold">tecnología</span>
           </h2>
-          <p class="text-vibranio-grey text-lg text-center lg:text-left mb-6">
+          <p class="text-vibranio-gray text-lg text-center lg:text-left mb-6">
             Dale a tu negocio la presencia que se merece.
             <br />
             Obten tu propia pagina profesional por tal solo{" "}
@@ -23,7 +23,7 @@ export const Hero = component$(() => {
         <div class="flex justify-center flex-1 mb-10 md:mb-16 lg:mb-0 z-10">
           <img
             class="w-5/6 h-5/6 sm:w-3/4 md:w-full md:h-full"
-            src="https://i.gifer.com/XVZN.gif"
+            src="webanimation.gif"
             alt="HeroImg"
           />
         </div>
