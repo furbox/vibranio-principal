@@ -8,6 +8,7 @@ import { Services } from "~/components/shared/services/services";
 import { Faqs } from "~/components/shared/faqs/faqs";
 import { Contact } from "~/components/shared/contact/contact";
 import { Footer } from "~/components/shared/footer/footer";
+import { Ws } from "~/components/shared/floatbutton/whatsapp";
 
 export default component$(() => {
   return (
@@ -19,6 +20,7 @@ export default component$(() => {
       <CallAction />
       <Faqs />
       <Contact />
+      <Ws />
       <Footer />
     </>
   );
