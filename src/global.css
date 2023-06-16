@@ -7,15 +7,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-.btn{
-  @apply shadow-md py-3 px-6 rounded-md transition duration-300 ease-in-out;
-}
-
-.btn-purple{
-  @apply bg-vibranio-purple text-white hover:bg-vibranio-white hover:text-vibranio-blue;
-}
-
-.btn-white{
-  @apply bg-vibranio-white text-vibranio-blue hover:bg-vibranio-purple hover:text-white;
-}

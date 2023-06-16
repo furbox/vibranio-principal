@@ -9,12 +9,14 @@ import { Faqs } from "~/components/shared/faqs/faqs";
 import { Contact } from "~/components/shared/contact/contact";
 import { Footer } from "~/components/shared/footer/footer";
 import { Ws } from "~/components/shared/floatbutton/whatsapp";
+import { Carroucel } from "~/components/shared/carroucel/carroucel";
 
 export default component$(() => {
   return (
     <>
       <Navbar />
       <Hero />
+      <Carroucel /> 
       <Features />
       <Services />
       <CallAction />

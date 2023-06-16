@@ -2,15 +2,6 @@
 module.exports = {
   content: ["./src/**/*.{js,ts,jsx,tsx,mdx}"],
   theme: {
-    extend: {
-      colors: {
-        "vibranio-purple": "#5267DF",
-        "vibranio-red": "#FA5959",
-        "vibranio-blue": "#242A45",
-        "vibranio-gray": "#9194A2",
-        "vibranio-white": "#f7f7f7",
-      },
-    },
     fontFamily: {
       Firasans: ["Fira Sans", "sans-serif"],
     },
@@ -24,5 +15,22 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  daisyui: {
+    themes: [
+      {
+        mytheme: {
+          primary: "#ea580c",
+          secondary: "#b0d6fc",
+          accent: "#c216f7",
+          neutral: "#22262f",
+          "base-100": "#3f4550",
+          info: "#849be6",
+          success: "#059669",
+          warning: "#fcd34d",
+          error: "#f13235",
+        },
+      },
+    ],
+  },
+  plugins: [require("daisyui")],
 };
